@@ -1,0 +1,4 @@
+name = "faunadb-cloudflare-worker"
+#main = "src/index.ts"
+main = "build/index.js"
+compatibility_date = "2022-07-20"
